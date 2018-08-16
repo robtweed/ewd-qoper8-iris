@@ -1,0 +1,22 @@
+{
+  "name": "ewd-qoper8-iris",
+  "version": "1.0.0",
+  "description": "Integrates the InterSystems IRIS Data Platform with ewd-qoper8 worker processes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ewd-document-store": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robtweed/ewd-qoper8-cache.git"
+  },
+  "author": "Rob Tweed, M/Gateway Developments Ltd",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/robtweed/ewd-qoper8-iris/issues"
+  },
+  "homepage": "https://github.com/robtweed/ewd-qoper8-iris#readme"
+}
